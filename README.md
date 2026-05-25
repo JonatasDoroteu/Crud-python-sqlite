@@ -22,19 +22,21 @@ Praticar conceitos de programação com Python, incluindo:
 ---
 
 ## 📁 Estrutura do projeto
+
+```
 crud-python-sqlite/
 │
 ├── src/
-│ ├── main.py
-│ ├── database.py
-│ ├── crud.py
+│   ├── main.py
+│   ├── database.py
+│   ├── crud.py
 │
 ├── database/
-│ └── meu_banco.db
+│   └── meu_banco.db
 │
 ├── .gitignore
 ├── README.md
-
+```
 
 
 ## 🚀 Como executar
