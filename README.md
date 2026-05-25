@@ -1,4 +1,4 @@
-# CRUD Python + SQLite 
+# 🐍 CRUD Python + SQLite
 
 Projeto simples de CRUD (Create, Read, Update, Delete) desenvolvido em Python utilizando SQLite como banco de dados.
 
@@ -36,8 +36,6 @@ crud-python-sqlite/
 │
 ├── .gitignore
 ├── README.md
-
-
 ---
 
 ## 🚀 Como executar
